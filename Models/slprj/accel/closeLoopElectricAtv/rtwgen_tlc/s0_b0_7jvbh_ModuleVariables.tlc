@@ -1,0 +1,6 @@
+%implements s0_b0_7jvbh_ModuleVariables "C"
+
+%function ModuleVariables(block) Output
+
+static real_T tmp[6] = { 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 };
+%endfunction
